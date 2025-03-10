@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">InterfazGrafica</string>
+
+    <!-- LOGIN -->
+    <string name="tvUsuario">Usuario</string>
+    <string name="tvPass">Contraseña</string>
+    <string name="btnLogin">Iniciar Sesión</string>
+
+    <string name="hUsuario">Ingresa tu Usuario</string>
+    <string name="hPass">Ingresa tu Contraseña</string>
+    <string name="title_activity_init">init</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
